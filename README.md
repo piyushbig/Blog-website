@@ -1,3 +1,12 @@
 # Blog-website
 
-[x] #739
+The blog-website using ejs, node.js, mongoose
+
+First setup your directory
+
+required npm packeges to install
+
+npm i express
+npm i bodyparser
+npm i ejs
+npm mongoose
